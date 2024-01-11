@@ -17,3 +17,8 @@ git clone https://github.com/your-username/dicee-challenge.git
 1. Open the index.html file in your preferred web browser.
 2. Click the "Roll the Dice!" button to initiate the dice roll.
 
+## Check the live Webpage
+
+```
+https://classicbucket.s3.ap-south-1.amazonaws.com/Dicee+Challenge+-+Starting+Files/index.html
+```
