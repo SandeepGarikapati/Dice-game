@@ -15,5 +15,5 @@ To run the Dicee Challenge locally, follow these steps:
 git clone https://github.com/your-username/dicee-challenge.git
 ```
 1. Open the index.html file in your preferred web browser.
-2.Click the "Roll the Dice!" button to initiate the dice roll.
+2. Click the "Roll the Dice!" button to initiate the dice roll.
 
